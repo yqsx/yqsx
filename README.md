@@ -3,7 +3,8 @@ Hi, I'm yqsx (not my real name, obviously)! I identify as a frog 🐸.
 **Interests:**
 - Kubernetes (K8s) 🚀
 - History & Pholosiphy
--  
+- Sport
+- idk
 
 **Education:**
 - IT Graduate of the University of Technology Sydney 🎓
